@@ -1,0 +1,16 @@
+Una vez instalado comprobar python3 desde la terminal:
+
+python3 --version
+Instalar jupyter:
+
+pip3 install jupyterlab
+Y ejecutarlo así:
+
+python3 -m jupyter notebook
+ 
+# si no funcionase probar con
+python3 -m notebook
+Para ejecutar scripts desde la terminal deberéis utilizar:
+
+python3 script.py
+Pantalla completa
